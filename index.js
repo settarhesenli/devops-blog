@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.send(`
     <h1>🚀 Settar's DevOps Blog</h1>
     <p>CI/CD yoldadır...</p>
-    <p>Version: 1.0</p>
+    <p>Version: 2.0</p>
   `);
 });
 
